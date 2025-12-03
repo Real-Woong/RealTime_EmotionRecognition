@@ -97,6 +97,8 @@ python main.py
 ```
 
 ---
+---
+---
 
 # 🇰🇷 한국어 버전 For Korean Readers
 
