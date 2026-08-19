@@ -209,3 +209,6 @@ __marimo__/
 #my individual Real_woong's gitignore 
 .DS_Store
 *.mov
+
+# 프로젝트 상태 관리 파일 (MANAGER/collect.sh 가 수집. 로컬 전용)
+_STATUS.md
